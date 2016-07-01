@@ -18,8 +18,7 @@ This project is fork from an awesome repo: [xperseguers/doodle_client](https://g
 
 5. 泡咖啡 have fun!
 
-
-##### 在 meeting.php 中可以修改 google 預設 token 存放位置 `CREDENTIALS_PATH` 以及 serect `CLIENT_SECRET_PATH`
+**在 meeting.php 中可以修改 google 預設 token 存放位置 `CREDENTIALS_PATH` 以及 serect `CLIENT_SECRET_PATH`**
 
 
 
@@ -40,5 +39,5 @@ This project is fork from an awesome repo: [xperseguers/doodle_client](https://g
 
 5. 泡咖啡 have fun!
 
-##### 如果你希望複製完 google drive 範本文件後，還要修改內容，可以取消註解 193:214 用 `updateFile`，將自訂的 html 填入 $data，但 update html 上去 google doc 格式可能不會跟你想的一樣模樣 ...
+**如果你希望複製完 google drive 範本文件後，還要修改內容，可以取消註解 193:214 用 `updateFile`，將自訂的 html 填入 $data，但 update html 上去 google doc 格式可能不會跟你想的一樣模樣 ...**
 
