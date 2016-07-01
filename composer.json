@@ -16,7 +16,6 @@
   ],
   "require": {
     "php": ">=5.3,<8.0-DEV",
-    "phpmailer/phpmailer": "^5.2",
     "league/oauth2-client": "^1.4",
     "google/apiclient": "^2.0"
   },
