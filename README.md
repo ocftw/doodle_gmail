@@ -24,7 +24,7 @@ This project is fork from an awesome repo: [xperseguers/doodle_client](https://g
 
 ----
 
-### google drive and calendar (bouns!)
+### google drive and calendar (bonus!)
 
 （時間定了以後）如果你剛好每次都需要用 google drive 開一個新的空白範本，然後將網址填入 google calendar 新活動並且邀請同一群人，那 done.php 這個 command line script 可以幫你節省一些時間！
 
