@@ -24,9 +24,9 @@ This project is fork from an awesome repo: [xperseguers/doodle_client](https://g
 
 ----
 
-### google drive and calendar 
+### google drive and calendar (bouns!)
 
-如果你剛好每次都需要用 google drive 開一個新的空白範本，然後將網址填入 google calendar 新活動並且邀請同一群人，那 done.php 這個 command line script 可以幫你節省一些時間！
+（時間定了以後）如果你剛好每次都需要用 google drive 開一個新的空白範本，然後將網址填入 google calendar 新活動並且邀請同一群人，那 done.php 這個 command line script 可以幫你節省一些時間！
 
 
 1. 開啟 google api 專案，下載 client_secret.json 到資料夾
