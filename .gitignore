@@ -1,0 +1,6 @@
+composer.lock
+vendor/
+client_secret.json
+
+# local tests
+test.php
